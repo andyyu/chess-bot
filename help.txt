@@ -1,0 +1,6 @@
+if you get a 'chromedriver' executable needs to be in PATH
+brew install chromedriver (osx)
+linux and windows 
+ensure you have installed the latest version of the chrome browser
+get the appropriate version of the chrome driver from
+http://chromedriver.storage.googleapis.com/index.html
