@@ -1,0 +1,9 @@
+open chess.com using selenium (chrome)
+user logs in
+starts game
+check when a new chess game has been detected (read through dom?)
+	- for the loop, maybe do a while loop(!notchessgame) { wait 5 seconds }
+while (!chessgamecomplete)
+{
+	make move, inject JS into dom
+}
